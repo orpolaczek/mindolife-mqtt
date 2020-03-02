@@ -1,0 +1,10 @@
+{
+  "name": "mindobridge",
+  "version": "0.0.2",
+  "dependencies": {
+    "express": "4.15.3",
+    "mqtt": "^3.0.0",
+    "request": "2.81.0",
+    "uuid": "^7.0.1"
+  }
+}
