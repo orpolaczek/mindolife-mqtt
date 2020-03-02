@@ -1,5 +1,5 @@
 {
-  "name": "mindobridge",
+  "name": "mindolife-mqtt",
   "version": "0.0.2",
   "dependencies": {
     "express": "4.15.3",
